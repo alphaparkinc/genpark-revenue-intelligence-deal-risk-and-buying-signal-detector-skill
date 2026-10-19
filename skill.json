@@ -1,0 +1,8 @@
+{
+  "name": "genpark-revenue-intelligence-deal-risk-and-buying-signal-detector-skill",
+  "version": "1.0.0",
+  "description": "B2B sales conversation intelligence, buying signal classifier, and multi-factor pipeline deal health risk scorer",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
